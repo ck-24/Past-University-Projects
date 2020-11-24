@@ -7,6 +7,6 @@
   - libraries: pandas, numpy, scikit-learn, matplotlib
 3. 2nd year **Statistics** project investigating the performance of UK healthcare in comparison to that of other countries in the OECD, in R.
   - techniques: Linear Regression, Kolmogorov-Smirnov tests, ANOVA tests
-4. 2nd year **Statistics** project modelling pulsars and containing a description of Dame Jocelyn Bell Burnell's work, in Python.
+4. 2nd year **Statistics** presentation on modelling pulsars and describing briefly Dame Jocelyn Bell Burnell's work, in Python.
   - techniques: Fitting to linear and non-linear models
   - libraries: scipy, numpy
